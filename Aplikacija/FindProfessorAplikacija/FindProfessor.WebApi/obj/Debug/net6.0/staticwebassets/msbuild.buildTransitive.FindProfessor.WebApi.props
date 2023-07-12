@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FindProfessor.WebApi.props" />
+</Project>

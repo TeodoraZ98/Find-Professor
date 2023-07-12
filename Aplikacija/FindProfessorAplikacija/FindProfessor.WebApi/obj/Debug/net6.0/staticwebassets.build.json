@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "lqgAU8LYOIENFSCh8WisRU3v58eKb29Rw3Pi0eecz3I=",
+  "Source": "FindProfessor.WebApi",
+  "BasePath": "_content/FindProfessor.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Teodora\\Desktop\\FindProfessor\\si.23.23.findprofessor\\Aplikacija\\FindProfessorAplikacija\\findprofessor.webapi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FindProfessor.WebApi.styles.css",
+      "SourceId": "FindProfessor.WebApi",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Teodora\\Desktop\\FindProfessor\\si.23.23.findprofessor\\Aplikacija\\FindProfessorAplikacija\\findprofessor.webapi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/FindProfessor.WebApi",
+      "RelativePath": "FindProfessor.WebApi.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Teodora\\Desktop\\FindProfessor\\si.23.23.findprofessor\\Aplikacija\\FindProfessorAplikacija\\findprofessor.webapi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FindProfessor.WebApi.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Teodora\\Desktop\\FindProfessor\\si.23.23.findprofessor\\Aplikacija\\FindProfessorAplikacija\\findprofessor.webapi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FindProfessor.WebApi.bundle.scp.css",
+      "SourceId": "FindProfessor.WebApi",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Teodora\\Desktop\\FindProfessor\\si.23.23.findprofessor\\Aplikacija\\FindProfessorAplikacija\\findprofessor.webapi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/FindProfessor.WebApi",
+      "RelativePath": "FindProfessor.WebApi.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Teodora\\Desktop\\FindProfessor\\si.23.23.findprofessor\\Aplikacija\\FindProfessorAplikacija\\findprofessor.webapi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FindProfessor.WebApi.bundle.scp.css"
+    }
+  ]
+}
