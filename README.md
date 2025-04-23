@@ -1,7 +1,7 @@
 **Find a Professor – Web Application**
 
 **Overview**  
-Find a Professor is a web-based platform designed to connect students with private tutors. It allows users to search for available professors based on subjects, schedule lessons, manage user profiles, and leave reviews. The system is aimed at resolving the lack of a centralized platform for private tutoring in Serbia, with future potential for expansion into other markets.
+Find a Professor is a web-based platform designed to connect students with private tutors. It allows users to search for available professors based on subjects, schedule lessons, manage user profiles, and leave reviews. 
 
 **Key Features**
 - **User Registration & Authentication**  
